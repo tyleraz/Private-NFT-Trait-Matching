@@ -1,5 +1,5 @@
 read me :
-https://github.com/pubgcarporation/confidential-vote/blob/main/fhevm-hardhat/README.md
+https://github.com/tyleraz/Private-NFT-Trait-Matching/blob/main/fhevm-hardhat/README.md
 
 
 demo :
